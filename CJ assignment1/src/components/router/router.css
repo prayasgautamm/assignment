@@ -1,0 +1,8 @@
+.B{
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: left;
+    background-image: linear-gradient(to right, rgb(152, 73, 73) , rgb(131, 105, 152));
+  }
